@@ -8,32 +8,32 @@ const Index = () => {
     {
       name: "AS",
       url: "https://as.com",
-      logo: "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/1.png"
+      logo: "/lovable-uploads/99c8b8c5-f0b1-4c5c-9f99-3e6eac0ac282.png"
     },
     {
       name: "MARCA",
       url: "https://www.marca.com",
-      logo: "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/03/05/15517895689123.jpg"
+      logo: "/lovable-uploads/f99e238a-889e-4241-8bf3-945ae4cec5be.png"
     },
     {
       name: "LA RAZÓN",
       url: "https://www.larazon.es",
-      logo: "https://img2.rtve.es/i/?w=1600&i=1446118283651.jpg"
+      logo: "/lovable-uploads/0b7f89b1-986e-4fc2-97cd-1ab62543d8a7.png"
     },
     {
       name: "EL MUNDO",
       url: "https://www.elmundo.es",
-      logo: "https://e00-elmundo.uecdn.es/assets/desktop/master/img/logos/elmundo.png"
+      logo: "/lovable-uploads/24eccd51-cfce-4204-85e8-f00bbff2b25f.png"
     },
     {
       name: "ABC",
       url: "https://www.abc.es",
-      logo: "https://static3.abc.es/media/play/2020/05/28/abc-U50205519884EVE--620x349@abc.jpg"
+      logo: "/lovable-uploads/b45042b9-91d5-4733-9937-f7eae51b5e1c.png"
     },
     {
       name: "EL PAÍS",
       url: "https://elpais.com",
-      logo: "https://static.elpais.com/dist/resources/images/especiales/40aniversario/el-pais-40-logo.png"
+      logo: "/lovable-uploads/647cd851-4cbb-40cd-ab15-61d343415860.png"
     }
   ];
 
